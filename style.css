@@ -1,0 +1,53 @@
+body{
+    background-color: burlywood;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    /* padding: 2%; */
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    width: 40%;
+    margin: auto;
+    padding: 1%;
+}
+
+h1{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: rgb(244, 11, 11);
+}
+p{
+    font-size: 2rem;
+    color: rgb(14, 120, 14);
+    font-family: cursive;
+}
+/* img{
+    max-width: 30%;
+} */
+h3{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 2rem;
+    color: rgb(244, 11, 11);
+}
+button{
+    background-color: rgb(228, 83, 39);
+    border: 2px solid #deb887;
+    color: #ffffff;
+    height: 40px;
+    border-radius: 5px;
+}
+
+footer{
+    font-family: cursive;
+    color: maroon;
+    text-align: center;
+    font-size: initial;
+}
